@@ -54,3 +54,5 @@ classes/
 
 # Shadow-cljs
 .shadow-cljs/
+
+.nx/
